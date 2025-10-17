@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 //Важно! Следует к библиотеке классов подключить файл tyuiu.cources.programming.interfaces.dll
- using tyuiu.cources .programming.interfaces.Sprint1;
+using tyuiu.cources.programming.interfaces.Sprint1;
 
 namespace Tyuiu.AhmadiMH.Sprint1.Task0.V14.Lib
 {
