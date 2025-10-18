@@ -7,7 +7,7 @@ namespace Tyuiu.AhmadiMH.Sprint1.Task1.V3.Test
     public class DataServiceTest
     {
         [TestMethod]
-        public void ValidExpression()
+        public void ValidConvertKmToMiles()
         {
             DataService ds = new DataService();
             double x = 10;
